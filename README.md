@@ -3,7 +3,7 @@
 A classic Pong game implemented in C++ with SFML, featuring real-time graphics, smooth paddle movement, collision detection, and score tracking.
 
 
-# 🍽️Developer
+# Developer
 
 <p align="center">
   <!-- 👤 PROFILE PICTURE PLACEHOLDER -->
@@ -12,7 +12,7 @@ A classic Pong game implemented in C++ with SFML, featuring real-time graphics, 
 
 <p align="center">
   <b>Mpayimana Cyiza Landry</b><br/>
-  Senior Software Engineer — Dev Protocol
+  Senior Software Engineer
 </p>
 
 ---
